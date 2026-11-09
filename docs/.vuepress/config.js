@@ -3,6 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { commentPlugin } from '@vuepress/plugin-comment'
 export default defineUserConfig({
+  base: process.env.VUEPRESS_BASE || '/',
   locales: {
     '/': {
       lang: 'zh-CN',
@@ -92,7 +93,7 @@ export default defineUserConfig({
           },
           { text: '工具', link: '/tools.md'},
           { text: '关于', link: '/about.md'},
-          { text: 'Github', link: 'https://github.com/kungfudaibi/kungfudaibi.github.io'},
+          { text: 'Github', link: 'https://github.com/SXU-Opensource-Association/kungfudaibi.github.io'},
           ] },
         ],
       },
@@ -119,7 +120,7 @@ export default defineUserConfig({
             ]
           },
           { text: 'About', link: '/en/about.md'},
-          { text: 'Github', link: 'https://github.com/kungfudaibi/kungfudaibi.github.io'},
+          { text: 'Github', link: 'https://github.com/SXU-Opensource-Association/kungfudaibi.github.io'},
           ] },
         ],
       },
@@ -128,7 +129,7 @@ export default defineUserConfig({
   plugins: [
     commentPlugin({
       provider: "Giscus",
-      repo: "kungfudaibi/kungfudaibi.github.io",
+      repo: "SXU-Opensource-Association/kungfudaibi.github.io",
       repoId: "R_kgDOKpEcCQ",
       category: "Announcements",
       categoryId: "DIC_kwDOKpEcCc4ChEoG",

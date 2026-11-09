@@ -19,7 +19,7 @@ config:
           link: /en/about.md
         - theme: alt
           text: GitHub
-          link: https://github.com/kungfudaibi/kungfudaibi.github.io
+          link: https://github.com/SXU-Opensource-Association/kungfudaibi.github.io
   - type: features
     features:
       - title: Learning guide
