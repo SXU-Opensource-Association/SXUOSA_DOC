@@ -93,7 +93,7 @@ export default defineUserConfig({
           },
           { text: '工具', link: '/tools.md'},
           { text: '关于', link: '/about.md'},
-          { text: 'Github', link: 'https://github.com/SXU-Opensource-Association/kungfudaibi.github.io'},
+          { text: 'Github', link: 'https://github.com/SXU-Opensource-Association/SXUOSA_DOC'},
           ] },
         ],
       },
@@ -120,7 +120,7 @@ export default defineUserConfig({
             ]
           },
           { text: 'About', link: '/en/about.md'},
-          { text: 'Github', link: 'https://github.com/SXU-Opensource-Association/kungfudaibi.github.io'},
+          { text: 'Github', link: 'https://github.com/SXU-Opensource-Association/SXUOSA_DOC'},
           ] },
         ],
       },
@@ -129,7 +129,7 @@ export default defineUserConfig({
   plugins: [
     commentPlugin({
       provider: "Giscus",
-      repo: "SXU-Opensource-Association/kungfudaibi.github.io",
+      repo: "SXU-Opensource-Association/SXUOSA_DOC",
       repoId: "R_kgDOKpEcCQ",
       category: "Announcements",
       categoryId: "DIC_kwDOKpEcCc4ChEoG",

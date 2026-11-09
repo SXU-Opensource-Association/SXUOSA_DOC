@@ -22,8 +22,8 @@ next: /start.md
 
 感谢以下参与者的贡献，如果你想参与编辑本项目，请查看[关于本项目](/about.md)。
 <p align="left">
-    <a href="https://github.com/SXU-Opensource-Association/kungfudaibi.github.io/graphs/contributors">
-        <img width="100" src="https://contrib.rocks/image?repo=SXU-Opensource-Association/kungfudaibi.github.io&max=300&columns=5" />
+    <a href="https://github.com/SXU-Opensource-Association/SXUOSA_DOC/graphs/contributors">
+        <img width="100" src="https://contrib.rocks/image?repo=SXU-Opensource-Association/SXUOSA_DOC&max=300&columns=5" />
     </a>
 </p>
 
