@@ -5,7 +5,7 @@
 
 1.克隆本项目
 ```shell
-git clone https://github.com/kungfudaibi/kungfudaibi.github.io
+git clone https://github.com/SXU-Opensource-Association/kungfudaibi.github.io
 ```
 2.
 ```shell
