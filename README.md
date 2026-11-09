@@ -5,11 +5,11 @@
 
 1.克隆本项目
 ```shell
-git clone https://github.com/SXU-Opensource-Association/kungfudaibi.github.io
+git clone https://github.com/SXU-Opensource-Association/SXUOSA_DOC
 ```
 2.
 ```shell
-cd kungfudaibi.github.io
+cd SXUOSA_DOC
 npm ci
 npm run docs:dev
 ```

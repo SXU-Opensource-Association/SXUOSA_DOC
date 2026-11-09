@@ -26,7 +26,7 @@ jobs:
 
       - name: Build VuePress
         env:
-          VUEPRESS_BASE: /kungfudaibi.github.io/
+          VUEPRESS_BASE: /SXUOSA_DOC/
         run: npm run docs:build
 
       - name: Deploy to GitHub Pages
